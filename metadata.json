@@ -1,0 +1,5 @@
+{
+  "name": "Invoice AI Scanner",
+  "description": "An intelligent invoice scanner that extracts key details (Date, PO, Items, etc.) from images using Gemini and exports them to CSV for Google Sheets.",
+  "requestFramePermissions": []
+}
